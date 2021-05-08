@@ -10,7 +10,7 @@ What gaps exist that are contributing to Healthy Food Priority Areas in Baltimor
 ## Data Question
 How have the Healthy Food Availability Index scores changed from 2012 to 2015?
 
-View Google Colaboratory Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cshah13/food-index-baltimore-change/blob/main/ChitiShah_FoodIndexAnalysis.ipynb)
+View Google Colaboratory Here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cshah13/food-index-baltimore-change/blob/main/HFAI_FoodIndexAnalysis.ipynb)
 ## Data Answer
 
 ![altext](https://github.com/cshah13/food-index-baltimore-change/blob/main/Bar%20Graph.png)
